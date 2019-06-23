@@ -1,12 +1,23 @@
-# hexo-theme-Annie
-Annie is a simple theme for Hexo. If you like literature and poetry, it might suit you!  [预览 | PREVIEW](https://sariay.github.io/2018/08/27/Annie主题使用说明/)
 
-<img src="https://github.com/Sariay/hexo-theme-Annie/blob/master/source/img/poem1.png" class="full-image" />
+
+# hexo-theme-Annie
+
+Annie is a simple theme for Hexo. If you like literature and poetry, it might suit you!  [预览 | PREVIEW](https://dinghow.site)
+
+Original version: [@Sariay](https://sariay.github.io/2018/08/27/Annie主题使用说明/)
+
+**Index:**
+
+![index](./img/demo.png)
+
+**Page:**
+
+![page](./img/page.png)
 
 ### 安装&启用
 
 ```bash
-git clone https://github.com/Sariay/hexo-theme-Annie.git
+git clone https://github.com/Dinghow/hexo-theme-Annie.git
 ```
 Then modify theme in ```_config.yml``` to Annie
 
