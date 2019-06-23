@@ -4,7 +4,7 @@
 
 Annie is a simple theme for Hexo. If you like literature and poetry, it might suit you!  [预览 | PREVIEW](https://dinghow.site)
 
-Original version: [@Sariay](https://sariay.github.io/2018/08/27/Annie主题使用说明/)
+Original version: @[Sariay](https://sariay.github.io/2018/08/27/Annie主题使用说明/)
 
 **Index:**
 
@@ -267,7 +267,7 @@ Other open source...
 - [x] Add busuanzi page access counter
 - [x] Add a script to auto create gittalk issues
 
-
+- [x] Add Media player
 
 ## 1. Disqus
 
@@ -399,3 +399,21 @@ kind = "Gitalk" # "Gitalk" or "gitment"
 ```
 
 Then run it.
+
+
+
+## 9. Media player
+
+Install  [hexo-tag-aplayer](https://github.com/MoePlayer/hexo-tag-aplayer) by @[grzhan](https://github.com/grzhan)
+
+`npm install hexo-tag-aplayer --save`
+
+Then set in  `_config.yml` of the blog folder
+
+```yml
+# Music player
+aplayer:
+  meting: true
+```
+
+You can see the player repo for detailed usage
